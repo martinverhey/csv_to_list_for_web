@@ -9,7 +9,7 @@ Check if the headers match with what I want to insert etc.
 I tested several csv files, some are working but some aren't. What's the origin of this, is it an format reason?
 How to make every csv fonctionnal/readable?
 
-I added some csv for testing
+I added some csv for testing into the `csv folder`
 for example
 `kindacode.csv` and `data-2.csv` are working. Everything is in a listitem.
 ![image](https://user-images.githubusercontent.com/33153750/151216473-abfc6507-fe37-4cf0-a19f-d11bf288a564.png)
